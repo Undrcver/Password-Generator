@@ -1,6 +1,6 @@
 # Personal Password Creator
 
-This is a random password generator build from HTML, CSS and JavaScript that allows its user to generate a completely new and randomized password between 8 and 128 characters from a set of parameters (uppercase or lowercase letters, special characters or numbers).
+This is a random password generator built from CSS and JavaScript that allows its user to generate a completely new and randomized password at a minimum of 8 characters from a set of requirements such as uppercase or lowercase letters, special characters or numbers.
 
 
 ## Screenshots
