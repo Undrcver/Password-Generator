@@ -21,7 +21,7 @@ function generatePassword() {
     window.alert(' Password must be a minimum of 8 characters Please try again.');
   };
 
-  // ask user if the want uppercase chars? 
+
   var getUpperCase = window.confirm('Would you like some uppercase letters?');
   // ask user if the want lowercase chars? 
   var lowerCase =  window.confirm('Would you like some lowercase letters?');
